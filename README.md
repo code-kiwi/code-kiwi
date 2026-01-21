@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center">
+  <img src="main/banner.png" width="100%" />
+</p>
 
-<!--
-**code-kiwi/code-kiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# code-kiwi (mhotting)
 
-Here are some ideas to get you started:
+**Software engineering student at École 42**  
+Former full-stack / backend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building understandable, maintainable software and on strengthening  
+core programming fundamentals through practical projects.
+
+## Background
+
+After two years of professional experience as a developer, I joined École 42 to deepen  
+my understanding of software engineering, systems programming, and application architecture.
+
+## Focus
+
+- Web application development  
+- Software architecture and design  
+- End-to-end project development
+
+## Selected projects (École 42)
+
+### Transcendence
+Full-stack web application with authentication, user management,  
+and a real-time Pong game featuring tournaments.
+
+### Cub3D
+3D rendering engine implemented using raycasting,  
+inspired by early FPS architectures.
+
+### Minishell
+Minimal Unix shell handling pipes, redirections,  
+and environment variables.
+
+### ft_irc
+IRC server developed in C++, following RFC specifications  
+and supporting multiple clients.
+
+## Technical stack
+
+C · C++ · PHP · TypeScript · HTML/CSS · Docker · Linux · Git
